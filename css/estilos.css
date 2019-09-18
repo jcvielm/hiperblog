@@ -45,3 +45,11 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: #757;
+    color: #060606;
+    text-align: center;
+    padding: 0.0001em;
+}
